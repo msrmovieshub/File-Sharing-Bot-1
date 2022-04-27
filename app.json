@@ -12,23 +12,23 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": ""
+      "value": "5372942633:AAFp-AuOMcMRGKW1wGZbW3mJoElp9f-pmdQ"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "1321369540"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "1738611"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "d598be4b796a17baa9877f9a3f50daf9"
     },
     "CHANNEL_ID":{
       "description": "make a channel, then make the bot as admin in channel, and it's id",
-      "value": "-100"
+      "value": "-1001597268953"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
