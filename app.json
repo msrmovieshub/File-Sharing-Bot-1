@@ -7,7 +7,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/WhitePrime/File-Sharing-Bot",
+  "repository": "https://github.com/msrmovieshub/File-Sharing-Bot-1",
   "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
   "env": {
     "TG_BOT_TOKEN": {
